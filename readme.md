@@ -9,6 +9,7 @@
 -on the post page the user can leave a comment in the comment form.
 
 ### Backend:
+- cms.sql is the database that can be imported in phpmyadmin so that you get some content.
 - user: demo password: demo.
 - the dashboard has an status chart.
 - CRUD implemented.
